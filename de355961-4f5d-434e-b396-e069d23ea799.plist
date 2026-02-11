@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/leelavatirajak1/ipa-host/main/8548123908/21f3d455-0ec4-4d6e-8405-896e1951b9c3.ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[thewonderofyou.Feather]]></string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Feather</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
