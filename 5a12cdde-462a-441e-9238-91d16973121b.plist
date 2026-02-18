@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://github.com/rajaksuhani09/ipa-host/releases/download/v-a933e278b197/5d2ac2c2-3c7c-4038-ac31-668ffc6f0664.ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[ph.telegra.Telegraphccda]]></string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Teledark</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
