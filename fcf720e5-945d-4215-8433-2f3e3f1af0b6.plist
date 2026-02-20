@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://github.com/thatwassillybigrob/ipa-host/releases/download/v-431eb11f0e30/462a8de4-2cab-46fa-ac8b-0e2507e0d0fb.ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[sh.weme.wemesh]]></string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Rave</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
